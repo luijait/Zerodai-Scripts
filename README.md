@@ -27,4 +27,4 @@
    3.1 `Conversational_chat.py`: Allows you to chat with the model from your CLI  
    3.2 `MultiStep_Agent.py`: Executes actions based on a prompt, enabling infinite development with `exec_module`  
    3.3 `Dark0dai.py`: OSINT agent to obtain leaks
-[![DarkGPT-Osint](https://imgur.com/9JgM806)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/C8ykBmlYm3Y?si=euWzF5zxP3qSDKCI))
+[![DarkGPT-Osint](https://imgur.com/9JgM806)]([](https://youtu.be/C8ykBmlYm3Y?si=euWzF5zxP3qSDKCI))
