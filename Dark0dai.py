@@ -1,5 +1,5 @@
-from Zerodai import ZeroDAI
-ZeroDAI.api_auth(os.environ["0dAPI_KEY"])
+from zerodai import zerodai
+ZeroDAI.api_auth(os.environ["zerodapi_key"])
 messages = []
 while True:
     prompt = input("> ")
