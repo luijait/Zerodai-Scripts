@@ -1,11 +1,8 @@
-from zerodai import zerodai
-ZeroDAI.api_auth(os.environ["zerodapi_key"])
-messages = []
+from zerodai.Zerodai import zerodai
+import os
+zerodai.api_auth(os.environ["zerodapi_key"])
 while True:
     prompt = input("> ")
     if prompt == "exit":
         break
-    ZeroDAI.Osint(prompt)
-
-
-
+    zerodai.Osint(prompt)
